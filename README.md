@@ -277,4 +277,6 @@ return 0;
 
 
 ## RESULT:
-Thus, the program has been executed using CUDA to ________________.
+Thus, the program has been executed using CUDA to perform and compare Bubble Sort and Merge Sort on CPU and GPU, demonstrating parallel sorting and improved GPU performance.
+
+
